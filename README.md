@@ -1,0 +1,2 @@
+# plexmediaserver
+third party channels
